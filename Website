@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+   <h1> Jacob's Bio </h1>
+</br>
+<head>
+</head>
+<body>
+    <BODY BGCOLOR="##CFCFFF"></BODY>
+   
+    My name is: Jacob Ssozi
+    </br>
+</br>
+    My major is Computer Science
+    </br>
+</br>
+    My IP address is 130.64.64.69
+    </br>
+</br>
+    I grew up in <a href="http://www.lynnma.gov/index.shtml">Lynn</a>, MA 
+    </br>
+</br>
+    Something nobody would expect about me is that I took 4 years of Latin, including reading De Bello Gallico
+</br>
+</br> 
+    My favorite place: 
+    </br>
+</br>
+    <img src= "boston.jpg">
+</body>
+</html>
